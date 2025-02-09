@@ -1,4 +1,4 @@
-Desctiption: Make Alexa Call People Out for Leaving the Toilet Seat Up! (Node-RED Tutorial
+Desctiption: Make Alexa Call People Out for Leaving the Toilet Seat Up! (Node-RED Tutorial)
 
 Link to YouTube video: https://youtu.be/HoYak0LTelg
 
