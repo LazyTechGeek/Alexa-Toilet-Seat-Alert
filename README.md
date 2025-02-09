@@ -1,14 +1,15 @@
-Code I used for Alexa and Node-Red
+Desctiption: Make Alexa Call People Out for Leaving the Toilet Seat Up! (Node-RED Tutorial
 
-"node-red-contrib-amazon-echo": https://flows.nodered.org/node/node-red-contrib-amazon-echo
+Link to YouTube video: https://youtu.be/HoYak0LTelg
 
-Main Video "Home Assistant: Controlling Devices with Alexa": ENTER LINK TO YOURTUBE VIDEO
+This is the code for the Node-Red process flow
 
-Basic On/Off Code
-
-Copy the below code to the clipboard then from Node-Red cick the 3 horizontal lines
-Select Import
-Paste the code into the Window and Select Import
+- Copy the below code to the clipboard then from Node-Red cick the 3 horizontal lines
+- Select Import
+- Paste the code into the Window and Select Import
+- Configure the 2 Nodes referencing your door sensors
+- Confugure the Alexa node to reference your Amazon account and Alexa device
+- Deploy the changes to apply
 
 - **Full Code for Alexa-Toilet-Seat-Alert**
 ```
